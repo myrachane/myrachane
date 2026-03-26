@@ -3,5 +3,6 @@
 </p>
 
 <p align="center">
+  <code>myrachane@dev:~$ initializing session...</code><br>
   <code>status: online | mode: building</code>
 </p>

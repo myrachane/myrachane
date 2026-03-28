@@ -95,3 +95,6 @@ Visrodeck/   OpenDih/
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myrachane&theme=github-dark&hide_border=true" />
 </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>

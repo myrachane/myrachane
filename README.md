@@ -46,7 +46,7 @@
 <h3>/WhoAmI</h3>
 
 <pre>
-name: myrachane
+name: emty
 role: idk bro...
 focus: Machine Learning and "Kool" Stuff
 status: Looking For Asian Baddie
